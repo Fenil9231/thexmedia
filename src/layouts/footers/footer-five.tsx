@@ -18,8 +18,8 @@ export default function FooterFive() {
                   </h4>
                 </div>
                 <div className="tp-footer-5-info d-flex align-items-center justify-content-start justify-content-md-end">
-                  <a className="tp-footer-5-mail" href="mailto:thexmedia.official@gmail.com">
-                  thexmedia.official@gmail.com
+                  <a className="tp-footer-5-mail" href="mailto:contact@thexmedia.com">
+                  contact@thexmedia.com
                   </a>
                   <a className="tp-footer-5-link" href="#">
                     <UpArrow clr="#19191A" />
@@ -40,15 +40,15 @@ export default function FooterFive() {
               <div className="tp-copyright-5-left-info">
                 <span>
                   <a
-                    href="https://www.google.com/maps/place/Mississauga,+ON,+Canada/"
+                    href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/"
                     target="_blank"
                   >
-                    Matheson Blvd E, 102,100, Mississauga, Ontario CA
+                    100 Matheson blvd Unit 102, Mississauga, Ontario CA
                   </a>
                 </span>
                 <span>
                   Phone:
-                  <a href="tel:+725214456">+ 725 214 456</a>
+                  <a href="tel:+14372635601">+1 437 263 5601</a>
                 </span>
               </div>
             </div>

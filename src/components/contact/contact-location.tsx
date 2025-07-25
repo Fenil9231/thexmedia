@@ -13,9 +13,9 @@ const location_data = [
     country: "Canada",
     time: "5:00 pm EST",
     location_title: "The-X-Media",
-    address: "Matheson Blvd E, 102,100, Mississauga, Ontario CA",
-    phone: "+1 5197746608",
-    email: "info@thexmedia.com",
+    address: "100 Matheson blvd Unit 102, Mississauga, Ontario CA",
+    phone: "+1 437 263 5601",
+    email: "contact@thexmedia.com",
   },
   {
     id: 2,
@@ -23,9 +23,9 @@ const location_data = [
     country: "Canada",
     time: "5:00 pm EST",
     location_title: "The-X-Media",
-    address: "Matheson Blvd E, 102,100, <br /> Mississauga, Ontario CA",
-    phone: "+1 5197746608",
-    email: "info@thexmedia.com",
+    address: "100 Matheson blvd Unit 102, Mississauga, Ontario CA",
+    phone: "+1 437 263 5601",
+    email: "contact@thexmedia.com",
   },
   {
     id: 3,
@@ -33,9 +33,9 @@ const location_data = [
     country: "Canada",
     time: "5:00 pm EST",
     location_title: "The-X-Media",
-    address: "Matheson Blvd E, 102,100, <br /> Mississauga, Ontario CA",
-    phone: "+1 5197746608",
-    email: "info@thexmedia.com",
+    address: "100 Matheson blvd Unit 102, Mississauga, Ontario CA",
+    phone: "+1 437 263 5601",
+    email: "contact@thexmedia.com",
   },
 ];
 

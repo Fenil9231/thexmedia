@@ -23,7 +23,7 @@ export default function FooterSix() {
                   <div className="tp-footer-6-talk">
                     <span>Got Questions? Call us</span>
                     <h4>
-                      <a href="tel:+15197746608">+1 519 774 6608</a>
+                      <a href="tel:+14372635601">+1 437 263 5601</a>
                     </h4>
                   </div>
                   <div className="tp-footer-6-contact">
@@ -34,7 +34,7 @@ export default function FooterSix() {
                         </span>
                       </div>
                       <div className="tp-footer-6-contact-content">
-                        <a href="mailto:info@thexmedia.com">info@thexmedia.com</a>
+                        <a href="mailto:contact@thexmedia.com">contact@thexmedia.com</a>
                       </div>
                     </div>
                     <div className="tp-footer-6-contact-item d-flex align-items-start">
@@ -44,8 +44,8 @@ export default function FooterSix() {
                         </span>
                       </div>
                       <div className="tp-footer-6-contact-content">
-                        <a href="https://www.google.com/maps/place/Mississauga,+ON,+Canada/" target="_blank">
-                          Matheson Blvd E, 102,100, Mississauga, Ontario CA
+                        <a href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/" target="_blank">
+                          100 Matheson blvd Unit 102, Mississauga, Ontario CA
                         </a>
                       </div>
                     </div>

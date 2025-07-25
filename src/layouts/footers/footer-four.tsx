@@ -62,13 +62,13 @@ export default function FooterFour() {
                   <h4 className="tp-footer-3-title">Contact</h4>
                   <div className="tp-footer-2-contact-item">
                     <span>
-                      <a href="https://www.google.com/maps/place/Mississauga,+ON,+Canada/"
-                      target="_blank">MATHESON BLVD E, 102,100, MISSISSAUGA, ONTARIO CA</a>
+                      <a href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/"
+                      target="_blank">100 MATHESON BLVD UNIT 102, MISSISSAUGA, ONTARIO CA</a>
                       </span>
                   </div>
                   <div className="tp-footer-2-contact-item">
-                    <span>P: <a href="tel:+15197746608">+1 519 774 6608</a></span>
-                    <span>E: <a href="mailto:info@thexmedia.com">info@thexmedia.com</a></span>
+                    <span>P: <a href="tel:+14372635601">+1 437 263 5601</a></span>
+                    <span>E: <a href="mailto:contact@thexmedia.com">contact@thexmedia.com</a></span>
                   </div>
                 </div>
                 <div className="tp-footer-3-widget">
