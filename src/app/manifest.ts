@@ -2,8 +2,8 @@ import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'The-X-Media - Digital Marketing Agency',
-    short_name: 'The-X-Media',
+    name: 'The X Media - Digital Marketing Agency',
+    short_name: 'The X Media',
     description: 'Digital Marketing Agency & Creative Solutions',
     start_url: '/',
     display: 'standalone',

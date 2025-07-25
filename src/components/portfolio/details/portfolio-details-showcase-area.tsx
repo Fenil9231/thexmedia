@@ -67,7 +67,7 @@ export default function PortfolioDetailsShowcaseArea() {
                               </div>
                               <div className="col-6">
                                   <div className="showcase-details-overview-info-right">
-                                    <span>The-X-Media</span>
+                                    <span>The X Media</span>
                                   </div>
                               </div>
                             </div>

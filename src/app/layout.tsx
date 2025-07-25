@@ -67,12 +67,12 @@ const marcellus = Marcellus({
 });
 
 export const metadata: Metadata = {
-  title: "The-X-Media - Digital Marketing Agency & Portfolio Next js Template",
-  description: "The-X-Media is a leading digital marketing agency specializing in creative solutions, web design, SEO, social media marketing, and brand development. Transform your business with our innovative digital strategies.",
-  keywords: "digital marketing, web design, SEO, social media marketing, brand development, creative agency, marketing solutions, The-X-Media",
-  authors: [{ name: "The-X-Media Team" }],
-  creator: "The-X-Media",
-  publisher: "The-X-Media",
+  title: "The X Media - Digital Marketing Agency & Portfolio Next js Template",
+  description: "The X Media is a leading digital marketing agency specializing in creative solutions, web design, SEO, social media marketing, and brand development. Transform your business with our innovative digital strategies.",
+  keywords: "digital marketing, web design, SEO, social media marketing, brand development, creative agency, marketing solutions, The X Media",
+  authors: [{ name: "The X Media Team" }],
+  creator: "The X Media",
+  publisher: "The X Media",
   formatDetection: {
     email: false,
     address: false,
@@ -83,16 +83,16 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "The-X-Media - Digital Marketing Agency & Creative Solutions",
+    title: "The X Media - Digital Marketing Agency & Creative Solutions",
     description: "Transform your business with our innovative digital marketing strategies. Expert web design, SEO, social media marketing, and brand development services.",
     url: process.env.NEXT_PUBLIC_SITE_URL || 'https://thexmedia.com',
-    siteName: process.env.NEXT_PUBLIC_SITE_NAME || 'The-X-Media',
+    siteName: process.env.NEXT_PUBLIC_SITE_NAME || 'The X Media',
     images: [
       {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'The-X-Media - Digital Marketing Agency',
+        alt: 'The X Media - Digital Marketing Agency',
       },
     ],
     locale: 'en_US',
@@ -100,7 +100,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "The-X-Media - Digital Marketing Agency",
+    title: "The X Media - Digital Marketing Agency",
     description: "Transform your business with our innovative digital marketing strategies and creative solutions.",
     images: ['/twitter-image.jpg'],
     creator: '@thexmedia',

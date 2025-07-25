@@ -44,7 +44,7 @@ const PortfolioDetailsVideoMain = () => {
                      <div className="col-xl-12">
                         <div className="project-details-video p-relative">
                            <video id="video" className="play-video" loop={true} muted={true} autoPlay={true} playsInline={true}>
-                              <source src="https://html.hixstudio.net/videos/The-X-Media/The-X-Media.mp4" type="video/mp4"/>
+                              <source src="https://html.hixstudio.net/videos/The X Media/The X Media.mp4" type="video/mp4"/>
                            </video>
                            <div className="video-progress-btn-wrap">
                               <label id="timer" htmlFor="progress"></label>
@@ -63,7 +63,7 @@ const PortfolioDetailsVideoMain = () => {
                               <div className="project-details-1-info-wrap mb-90 flex-wrap d-flex justify-content-between align-items-center">
                                  <div className="project-details-1-info">
                                     <span>Client</span>
-                                    <h4>The-X-Media</h4>
+                                    <h4>The X Media</h4>
                                  </div>
                                  <div className="project-details-1-info">
                                     <span>Date</span>
