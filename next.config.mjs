@@ -17,7 +17,6 @@ const nextConfig = {
   
   // Performance optimizations
   experimental: {
-    optimizeCss: true,
     optimizePackageImports: ['gsap', 'react-bootstrap', 'bootstrap'],
   },
   

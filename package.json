@@ -22,6 +22,7 @@
     "@hookform/resolvers": "^3.4.2",
     "@types/react-modal-video": "^1.2.3",
     "bootstrap": "^5.3.3",
+    "critters": "^0.0.20",
     "gsap": "^3.12.5",
     "imagesloaded": "^5.0.0",
     "isotope-layout": "^3.0.6",
