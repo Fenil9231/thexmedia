@@ -1,6 +1,6 @@
-# The-X-Media - Digital Marketing Agency Website
+# The X Media - Digital Marketing Agency Website
 
-This is The-X-Media's official website built with [Next.js](https://nextjs.org/), showcasing our digital marketing services, portfolio, and creative solutions.
+This is The X Media's official website built with [Next.js](https://nextjs.org/), showcasing our digital marketing services, portfolio, and creative solutions.
 
 ## Getting Started
 
