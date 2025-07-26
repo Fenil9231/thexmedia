@@ -53,16 +53,16 @@ export default function FooterOne() {
                         </h4>
                         <div className="tp-footer-widget-info">
                           <div className="tp-footer-widget-info-mail tp_fade_bottom">
-                            <a href="mailto:contact@agency.com">
-                              contact@agency.com
+                            <a href="mailto:contact@thexmedia.com">
+                              contact@thexmedia.com
                             </a>
                           </div>
                           <div className="tp-footer-widget-info-location tp_fade_bottom">
                             <a
-                              href="https://www.google.com/maps/place/Mississauga,+ON,+Canada/"
+                              href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/"
                               target="_blank"
                             >
-                              Matheson Blvd E, 102,100, <br /> Mississauga, Ontario CA
+                              100 Matheson blvd Unit 102, <br /> Mississauga, Ontario CA
                             </a>
                           </div>
                         </div>
