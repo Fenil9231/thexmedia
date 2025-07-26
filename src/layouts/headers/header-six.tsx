@@ -63,11 +63,6 @@ export default function HeaderSix() {
                       <Menu/>
                     </span>
                   </button>
-                  <button onClick={() => setOpenCartMini(true)} className="tp-inner-header-2-cart cartmini-open-btn">
-                    <span>
-                      <Zero/>
-                    </span>
-                  </button>
                 </div>
               </div>
             </div>

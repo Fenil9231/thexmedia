@@ -59,7 +59,7 @@ export default function FooterThree() {
                     <li><a href="#">About</a></li>
                     <li><a href="#">Contact</a></li>
                     <li><a href="#">Blog</a></li>
-                    <li><a href="#">Landing</a></li>
+
                   </ul>
                 </div>
               </div>
@@ -68,7 +68,7 @@ export default function FooterThree() {
               <div className="tp-footer-2-widget footer-col-2-3">
                 <h4 className="tp-footer-2-widget-title">Office</h4>
                 <div className="tp-footer-2-contact-item">
-                  <span><a href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/" target="_blank">100 MATHESON BLVD UNIT 102, MISSISSAUGA, ONTARIO CA</a></span>
+                  <span><a href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/" target="_blank">100 Matheson blvd, Mississauga, Ontario CA</a></span>
                 </div>
                 <div className="tp-footer-2-contact-item">
                   <span><a href="tel:+14372635601">P: +1 437 263 5601</a></span>
@@ -106,9 +106,9 @@ export default function FooterThree() {
             </div>
             <div className="col-xl-8 col-lg-7">
               <div className="tp-copyright-2-social text-center text-lg-end">
-                <a className="mb-10" href="#">Linkedin</a>
-                <a className="mb-10" href="#">Twitter</a>
-                <a className="mb-10" href="#">Instagram</a>
+                <a className="mb-10" href="https://www.linkedin.com/company/theexmedia/" target="_blank">Linkedin</a>
+                <a className="mb-10" href="https://www.facebook.com/thexmediaofficial" target="_blank">Facebook</a>
+                <a className="mb-10" href="https://www.instagram.com/thexmedia_/" target="_blank">Instagram</a>
               </div>
             </div>
           </div>

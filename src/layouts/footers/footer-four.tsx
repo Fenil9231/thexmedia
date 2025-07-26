@@ -18,7 +18,7 @@ export default function FooterFour() {
                     <ul>
                       <li><a href="#">Home</a></li>
                       <li><a href="#">About</a></li>
-                      <li><a href="#">Landing</a></li>
+    
                       <li><a href="#">Blog</a></li>
                       <li><a href="#">Contact</a></li>
                     </ul>
@@ -63,7 +63,7 @@ export default function FooterFour() {
                   <div className="tp-footer-2-contact-item">
                     <span>
                       <a href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/"
-                      target="_blank">100 MATHESON BLVD UNIT 102, MISSISSAUGA, ONTARIO CA</a>
+                      target="_blank">100 Matheson blvd, Mississauga, Ontario CA</a>
                       </span>
                   </div>
                   <div className="tp-footer-2-contact-item">
@@ -74,10 +74,9 @@ export default function FooterFour() {
                 <div className="tp-footer-3-widget">
                   <h4 className="tp-footer-3-title">Follow</h4>
                   <div className="tp-footer-3-social">
-                    <a href="#"><i className="fa-brands fa-twitter"></i></a>
-                    <a href="#"><i className="fa-brands fa-facebook-f"></i></a>
-                    <a href="#"><i className="fa-brands fa-instagram"></i></a>
-                    <a href="#"><i className="fa-brands fa-linkedin-in"></i></a>
+                    <a href="https://www.facebook.com/thexmediaofficial" target="_blank"><i className="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/thexmedia_/" target="_blank"><i className="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/company/theexmedia/" target="_blank"><i className="fa-brands fa-linkedin-in"></i></a>
                   </div>
                 </div>
               </div>
