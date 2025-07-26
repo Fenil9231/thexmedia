@@ -1,39 +1,17 @@
 import React from "react";
 import Image from "next/image";
 // images
-import location_1 from "@/assets/img/inner-contact/contact/info-1.jpg";
-import location_2 from "@/assets/img/inner-contact/contact/info-2.jpg";
 import location_3 from "@/assets/img/inner-contact/contact/info-3.jpg";
 
 // data
 const location_data = [
-  {
-    id: 1,
-    img: location_1,
-    country: "Canada",
-    time: "5:00 pm EST",
-    location_title: "The-X-Media",
-    address: "100 Matheson blvd Unit 102, Mississauga, Ontario CA",
-    phone: "+1 437 263 5601",
-    email: "contact@thexmedia.com",
-  },
-  {
-    id: 2,
-    img: location_2,
-    country: "Canada",
-    time: "5:00 pm EST",
-    location_title: "The-X-Media",
-    address: "100 Matheson blvd Unit 102, Mississauga, Ontario CA",
-    phone: "+1 437 263 5601",
-    email: "contact@thexmedia.com",
-  },
   {
     id: 3,
     img: location_3,
     country: "Canada",
     time: "5:00 pm EST",
     location_title: "The-X-Media",
-    address: "100 Matheson blvd Unit 102, Mississauga, Ontario CA",
+    address: "100 Matheson blvd, Mississauga, Ontario CA",
     phone: "+1 437 263 5601",
     email: "contact@thexmedia.com",
   },

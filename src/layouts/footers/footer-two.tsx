@@ -56,7 +56,7 @@ export default function FooterTwo({ whiteFooter = false,topCls='footer-top' }: I
                     <li><a href="#">About</a></li>
                     <li><a href="#">Contact</a></li>
                     <li> <a href="#">Blog</a></li>
-                    <li><a href="#">Landing</a></li>
+
                   </ul>
                 </div>
               </div>
@@ -70,7 +70,7 @@ export default function FooterTwo({ whiteFooter = false,topCls='footer-top' }: I
                         href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/"
                         target="_blank"
                       >
-                      100 Matheson blvd Unit 102, Mississauga, Ontario CA
+                      100 Matheson blvd, Mississauga, Ontario CA
                     </a>
                   </span>
                 </div>
@@ -123,9 +123,9 @@ export default function FooterTwo({ whiteFooter = false,topCls='footer-top' }: I
             </div>
             <div className="col-xl-8 col-lg-7">
               <div className="tp-copyright-2-social text-center text-lg-end">
-                <a className="mb-10" href="#">Linkedin</a>
-                <a className="mb-10" href="#">Twitter</a>
-                <a className="mb-10" href="#">Instagram</a>
+                <a className="mb-10" href="https://www.linkedin.com/company/theexmedia/" target="_blank">Linkedin</a>
+                <a className="mb-10" href="https://www.facebook.com/thexmediaofficial" target="_blank">Facebook</a>
+                <a className="mb-10" href="https://www.instagram.com/thexmedia_/" target="_blank">Instagram</a>
               </div>
             </div>
           </div>

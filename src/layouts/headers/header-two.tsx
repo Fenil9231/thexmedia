@@ -2,15 +2,15 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { Cart } from "@/components/svg";
+
 import useSticky from "@/hooks/use-sticky";
-import CartOffcanvas from "@/components/offcanvas/cart-offcanvas";
+
 import MobileOffcanvasTwo from "@/components/offcanvas/mobile-offcanvas-2";
 
 
 export default function HeaderTwo() {
   const {sticky} = useSticky();
-  const [openCartMini, setOpenCartMini] = React.useState(false);
+
   const [openOffCanvas, setOpenOffcanvas] = React.useState(false);
   return (
     <>
@@ -50,23 +50,12 @@ export default function HeaderTwo() {
                 </div>
               </div>
               <div className="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                <div className="tp-header-2-cart text-end">
-                  <button className="cartmini-open-btn" onClick={() => setOpenCartMini(true)}>
-                    Cart
-                    <span>
-                      <Cart />
-                    </span>
-                  </button>
-                </div>
+                {/* Cart removed */}
               </div>
             </div>
           </div>
         </div>
       </header>
-
-      {/* cart mini */}
-      <CartOffcanvas openCartMini={openCartMini} setOpenCartMini={setOpenCartMini} />
-      {/* cart mini */}
 
       {/* off canvas */}
       <MobileOffcanvasTwo openOffcanvas={openOffCanvas} setOpenOffcanvas={setOpenOffcanvas} />

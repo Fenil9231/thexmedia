@@ -61,17 +61,18 @@ export default function MobileOffcanvasTwo({openOffcanvas,setOpenOffcanvas}:IPro
           </div>
           <div className="tp-offcanvas-2-right-inner d-flex flex-column justify-content-between h-100">
             <div className="tpoffcanvas__right-info">
-              <div className="tpoffcanvas__tel">
-                <a href="tel:61404093954">+61404093 954</a>
-              </div>
-              <div className="tpoffcanvas__mail">
-                <a href="mailto:hellocontact@diego.com">
-                  hello contact@diego.com
-                </a>
-              </div>
-              <div className="tpoffcanvas__text">
-                <p>If in doubt. reach out.</p>
-              </div>
+              <h4 className="tpoffcanvas__right-info-title">Get In Touch</h4>
+              <ul>
+                <li>
+                  <i className="fa-solid fa-phone"></i>
+                  <a href="tel:+14372635601">+1 437 263 5601</a>
+                </li>
+                <li>
+                  <i className="fa-solid fa-envelope"></i>
+                  <a href="mailto:contact@thexmedia.com">contact@thexmedia.com</a>
+                </li>
+              </ul>
+              <p>100 Matheson blvd, Mississauga, Ontario CA</p>
             </div>
             <div className="tpoffcanvas__social-link">
               <ul>

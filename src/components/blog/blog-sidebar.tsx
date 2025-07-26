@@ -110,13 +110,13 @@ export default function BlogSidebar() {
         <h3 className="sidebar__widget-title">Follow Us</h3>
         <div className="sidebar__widget-content">
           <div className="sidebar__social">
-            <a href="#">
+            <a href="https://www.facebook.com/thexmediaofficial" target="_blank">
               <i className="fa-brands fa-facebook"></i>
             </a>
-            <a href="#">
-              <i className="fa-brands fa-twitter"></i>
+            <a href="https://www.instagram.com/thexmedia_/" target="_blank">
+              <i className="fa-brands fa-instagram"></i>
             </a>
-            <a href="#">
+            <a href="https://www.linkedin.com/company/theexmedia/" target="_blank">
               <i className="fa-brands fa-linkedin-in"></i>
             </a>
           </div>

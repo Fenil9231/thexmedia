@@ -13,13 +13,13 @@ export default function BlogDetailsAuthor() {
       </div>
       <div className="blog-details-author-content-wrap">
         <div className="blog-details-author-social text-end">
-          <a href="#">
+          <a href="https://www.facebook.com/thexmediaofficial" target="_blank">
             <i className="fab fa-facebook-f"></i>
           </a>
-          <a href="#">
-            <i className="fab fa-twitter"></i>
+          <a href="https://www.instagram.com/thexmedia_/" target="_blank">
+            <i className="fab fa-instagram"></i>
           </a>
-          <a href="#">
+          <a href="https://www.linkedin.com/company/theexmedia/" target="_blank">
             <i className="fab fa-linkedin-in"></i>
           </a>
         </div>

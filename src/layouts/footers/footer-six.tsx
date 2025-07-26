@@ -45,7 +45,7 @@ export default function FooterSix() {
                       </div>
                       <div className="tp-footer-6-contact-content">
                         <a href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/" target="_blank">
-                          100 Matheson blvd Unit 102, Mississauga, Ontario CA
+                          100 Matheson blvd, Mississauga, Ontario CA
                         </a>
                       </div>
                     </div>
