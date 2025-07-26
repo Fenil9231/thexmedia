@@ -68,13 +68,13 @@ export default function FooterThree() {
               <div className="tp-footer-2-widget footer-col-2-3">
                 <h4 className="tp-footer-2-widget-title">Office</h4>
                 <div className="tp-footer-2-contact-item">
-                  <span><a href="https://www.google.com/maps/place/Mississauga,+ON,+Canada/" target="_blank">MATHESON BLVD E, 102,100, MISSISSAUGA, ONTARIO CA</a></span>
+                  <span><a href="https://www.google.com/maps/place/100+Matheson+Blvd+E,+Mississauga,+ON,+Canada/" target="_blank">100 MATHESON BLVD UNIT 102, MISSISSAUGA, ONTARIO CA</a></span>
                 </div>
                 <div className="tp-footer-2-contact-item">
-                  <span><a href="tel:+15197746608">P: +1 519 774 6608</a></span>
+                  <span><a href="tel:+14372635601">P: +1 437 263 5601</a></span>
                 </div>
                 <div className="tp-footer-2-contact-item">
-                  <span><a href="mailto:info@thexmedia.com">E: info@thexmedia.com</a></span>
+                  <span><a href="mailto:contact@thexmedia.com">E: contact@thexmedia.com</a></span>
                 </div>
               </div>
             </div>
